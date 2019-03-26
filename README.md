@@ -1,2 +1,2 @@
 # hyperopt-recipe
-Quick hyperopt examples for hyper-parameter optimization
+Quick examples for hyper-parameter optimization with [hyperopt](https://github.com/hyperopt/hyperopt)

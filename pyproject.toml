@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "hyperopt-recipe"
+version = "0.1.0"
+description = "Quick examples for hyper-parameter optimization with hyperopt"
+authors = ["amelie <amelie.rolland.1@gmail.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.6"
+hyperopt = "^0.1.2"
+
+[tool.poetry.dev-dependencies]
+black = "18.6b"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
